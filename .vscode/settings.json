@@ -1,8 +1,8 @@
 {
     "python.pythonPath": "C:\\Users\\burge\\anaconda3\\envs\\devintrods\\python.exe",
     "python.dataScience.jupyterServerURI": "local",
-    "python.linting.pylintEnabled": false,
-    "python.linting.mypyEnabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.mypyEnabled": false,
     "python.linting.enabled": true,
     "python.formatting.provider": "black"
 }
